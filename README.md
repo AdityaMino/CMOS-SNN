@@ -1,5 +1,13 @@
 # CMOS-SNN
-Spiking neural networks (SNNs) have emerged as a  promising candidate for the next generation of neural  networks, mainly due to their alignment with biological neuron function, which may help to uncover brain mechanisms.
+Spiking neural networks (SNNs) have emerged as a  promising candidate for the next generation of neural  networks, mainly due to their alignment with biological neuron function, which may help to uncover brain mechanisms. This subthreshold CMOS implementation of the 
+Izhikevich neuron model using Xschem and Skywater 
+130nm pdk, demonstrates a significant step towards 
+biologically accurate neuromorphic hardware. Due to the 
+extremely low energy consumption and supply voltage 
+requirements, the circuit is suitable for use in large-scale 
+spiking neural networks, neuromorphic processors and in 
+embedded applications 
+
 ## Schematic Of the Circiuit
 ![Screenshot from 2024-11-08 23-15-15](https://github.com/user-attachments/assets/e48f4e25-19fd-4f8e-ab67-213a934c1423)
 
